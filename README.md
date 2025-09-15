@@ -1,4 +1,4 @@
  # Repositorio de _Mario Smet Gil_
+> Por Mario Smet Gil
 
-
- Hecho y mantenido por [GitHub](https://pages.github.com/)
+ Mantenido por [GitHub](https://pages.github.com/)
